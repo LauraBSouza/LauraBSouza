@@ -1,6 +1,6 @@
 ### Olá!! Eu sou a Laura Barros 
 
-- 20 Anos
+- 📌 20 Anos
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 
 <div>
