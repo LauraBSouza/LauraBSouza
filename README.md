@@ -1,7 +1,7 @@
 ### Olá!! Eu sou a Laura Barros 
 
-- 🌱 Estudando Java
-- 😄 Pronouns: Ela/Dela
+- 20 Anos
+- 😄 Estudando Análise e Desenvolvimento de Sistemas
 
 <div>
   <a href="https://github.com/LauraBSouza">
