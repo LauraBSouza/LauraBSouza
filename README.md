@@ -1,6 +1,6 @@
 ### Oii!! Eu sou a Laura 
 
- 📌 20 Anos
+ 📌 23 Anos
  
  📌 Estudando Análise e Desenvolvimento de Sistemas
 
